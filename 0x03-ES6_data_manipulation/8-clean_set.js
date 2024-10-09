@@ -1,0 +1,3 @@
+const cleanSet = (set, startString) => {
+
+}
